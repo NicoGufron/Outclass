@@ -1,8 +1,9 @@
-Hello, welcome to my portfolio. This is where I created TutOnHub for Outclass.
+Hello, this is a repository for work in Flutter that I have created. This is where I created TutOnHub for Outclass.
+I worked each screen from the beginning to the end screen.
 
 Some of the codes / tools are from Outclass, and fully functional on Outclass.
 The codes are for views only to show my work on Outclass.
-You may see the pictures I have given here.
+You can see the pictures I have provided.
 1. Main page
 <img src="/pictures/one.jpeg"  width="25%" height="25%">
 2. Main page(2)
